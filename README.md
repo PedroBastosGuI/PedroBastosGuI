@@ -1,8 +1,8 @@
 ### Hi 👋, welcome to my Profile 👾!!
 
 
-- 🔭 I’m currently working on Front-end Developer
-- 🌱 I’m currently learning TypeScript
+- 🔭 I’m currently working on Front-end and mobile Developer
+- 🌱 I’m currently learning Node.js 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-bastos-7a2b601b7/">
